@@ -1,0 +1,20 @@
+img {
+    height: 350px;
+    width: auto;
+}
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: F5F2E7;
+}
+
+h1 {
+    color: 2C3333;
+}
+
+h2 {
+    color: 395B64;
+}
